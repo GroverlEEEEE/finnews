@@ -1,0 +1,52 @@
+{
+  "news_items": [
+    {
+      "id": 1,
+      "title": "Global Markets Show Resilience Amid Economic Uncertainty",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_alt": "Stock Market Analysis",
+      "article_url": "https://www.wsj.com/markets",
+      "timestamp": "2025-06-12T23:59:25.376732",
+      "source": "WSJ"
+    },
+    {
+      "id": 2,
+      "title": "Federal Reserve Signals Potential Policy Shift",
+      "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_alt": "Federal Reserve",
+      "article_url": "https://www.wsj.com/economy",
+      "timestamp": "2025-06-12T23:59:25.376820",
+      "source": "WSJ"
+    },
+    {
+      "id": 3,
+      "title": "Technology Sector Leads Market Recovery",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_alt": "Technology Stocks",
+      "article_url": "https://www.wsj.com/tech",
+      "timestamp": "2025-06-12T23:59:25.376880",
+      "source": "WSJ"
+    },
+    {
+      "id": 4,
+      "title": "Energy Prices Stabilize After Volatile Week",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_alt": "Energy Markets",
+      "article_url": "https://www.wsj.com/business/energy-oil",
+      "timestamp": "2025-06-12T23:59:25.376944",
+      "source": "WSJ"
+    },
+    {
+      "id": 5,
+      "title": "Digital Assets Gain Institutional Acceptance",
+      "image_url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_alt": "Cryptocurrency",
+      "article_url": "https://www.wsj.com/finance/currencies",
+      "timestamp": "2025-06-12T23:59:25.376999",
+      "source": "WSJ"
+    }
+  ],
+  "last_updated": "2025-06-12T23:59:25.377439",
+  "source": "WSJ Latest Headlines",
+  "source_url": "https://www.wsj.com/news/latest-headlines?mod=nav_top_section"
+}
